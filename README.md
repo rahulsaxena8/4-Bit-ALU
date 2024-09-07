@@ -32,7 +32,7 @@ My contributions-
 4) Performing DRC and LVS tests on my designed blocks. Also performed testing.
 5) Contributed in Project Report Preparation.
 
-Final Reaults: 
+Final Results: 
 
 1) Realisation area = 440.08 um^2.
 2) Critical path delay for 1.2V = 4.545 ns.
