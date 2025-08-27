@@ -43,3 +43,10 @@ Final Results:
 7) Maximum Frequency for 0.7V = 24 MHz
 
 Files containing the project details are attached for perusal.
+
+Full Layout of the 4-Bit ALU: 
+
+<p align="center">
+  <img src="assets/Full_Layout.png" alt="Project Screenshot" width="800"/>
+</p>
+
