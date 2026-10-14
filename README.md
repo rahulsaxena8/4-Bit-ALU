@@ -20,8 +20,11 @@ D) Calculated setup time and critical path delay for 700mV and 1.2V.
 E) Calculated Maximum frequency of operation for 700 mV and 1.2V.
 
 F) Steps taken to optimise :
+
  1)Area- Cells laid out in placement rows.
+ 
  2)Power- Data gating employed.
+ 
  3)Delay- Used buffers to bring down the fan-out from 8 to 4 and increasing signal strength.
  
 G) 4 metal layers used.
