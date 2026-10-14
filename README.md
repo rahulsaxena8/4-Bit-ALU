@@ -25,7 +25,7 @@ F) Steps taken to optimise :
  
  2) Power- Data gating employed.
  
- 3) Delay- Used buffers to bring down the fan-out from 8 to 4 and increasing signal strength.
+ 3) Delay- Used buffers to bring down the fan-out from 8 to 4 and increase signal strength.
  
 G) 4 metal layers used.
 
