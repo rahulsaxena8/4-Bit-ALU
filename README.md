@@ -11,7 +11,7 @@ A) Operations capable of performing-
     
  Addition and subtraction are in 2's compliment. Kogge-Stone Adder used.
 
-B) Successfully performed DRC,LVS and quantus QRC extraction.
+B) Successfully performed DRC, LVS and quantus QRC extraction.
 
 C) Final layout area within 150% of total cell area.
 
