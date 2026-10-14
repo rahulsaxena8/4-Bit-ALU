@@ -8,6 +8,7 @@ A) Operations capable of performing-
  2) Subtraction
  3) XOR
  4) Barrel Shift right.
+    
  Addition and subtraction are in 2's compliment. Kogge-Stone Adder used.
 
 B) Successfully performed DRC,LVS and quantus QRC extraction.
