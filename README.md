@@ -58,11 +58,11 @@ The ALU accepts a 5-bit opcode.
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/OpCode.png" width="800"/>
 </p>
 
-Op4 determines if there is a feedback or not. 0 for external input and 1 for feedback.
+Op4 determines if there is a feedback. 0 for external input and 1 for feedback.
 
 Op3 and Op2 determine the ALU operation. 00 for Addition, 01 for Subtraction, 10 for XOR, and 11 for Barrel-Shift.
 
-Op1 and Op0 determine the shift provided by the Barrel-Shifter. 00 for shift 4, 01 for shift 1, 10 for shift 2, and 11 for shift 3. 
+Op1 and Op0 determine the shift produced by the Barrel-Shifter. 00 for shift 4, 01 for shift 1, 10 for shift 2, and 11 for shift 3. 
 
 Full Layout of the 4-Bit ALU:
 
