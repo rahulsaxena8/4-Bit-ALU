@@ -64,6 +64,18 @@ Op3 and Op2 determine the ALU operation. 00 for Addition, 01 for Subtraction, 10
 
 Op1 and Op0 determine the shift produced by the Barrel-Shifter. 00 for shift 4, 01 for shift 1, 10 for shift 2, and 11 for shift 3. 
 
+Testing the circuit on logisim:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Logisim_alu.png" width="800"/>
+</p>
+
+Inside the ALU block:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Logisim_alu-inside.png" width="800"/>
+</p>
+
 Full Layout of the 4-Bit ALU:
 
  <p align="center">
