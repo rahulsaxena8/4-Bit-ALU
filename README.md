@@ -139,7 +139,7 @@ Schematic and layout of the ALU block (combinational):
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/ALU_2_Layout.png" width="800"/>
 </p>
 
-Full Layout of the 4-Bit ALU:
+Schematic and layout of the complete 4-Bit ALU:
 
  <p align="center">
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/overview_circ_Schematic.png" width="800"/>
