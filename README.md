@@ -131,6 +131,14 @@ Complete floorplan:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Adder_Layout.png" width="400"/>
 </p>
 
+Schematic and layout of the ALU block:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/ALU_2.png" width="800"/>
+  <br>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/ALU_2_Layout.png" width="800"/>
+</p>
+
 Full Layout of the 4-Bit ALU:
 
  <p align="center">
