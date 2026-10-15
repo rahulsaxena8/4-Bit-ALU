@@ -127,8 +127,8 @@ Complete floorplan:
 4-bit Kogge-Stone adder schematic and layout:
 
  <p align="center">
-  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/.png" width="600"/>
-  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Adder_Schematic.png" width="600"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Adder_Schematic.png" width="400"/>
 </p>
 
 Full Layout of the 4-Bit ALU:
