@@ -28,15 +28,15 @@ F) Steps taken to optimise :
 G) 4 metal layers used.
 
 My contributions- 
-1) Designing and testing entire circuit on logisim.
-2) Building schematic and layout of adder block. 
-3) Building schematic and layout of the ALU block (Only combinational logic included).
-4) Performing DRC and LVS tests on my designed blocks. Also performed testing.
+1) Designing and testing the circuit on logisim.
+2) Building schematic and layout of the adder block. 
+3) Building schematic and layout of the ALU block (Combinational logic).
+4) Performed DRC, LVS and functional testing on my designed blocks.
 5) Contributed in Project Report Preparation.
 
 Final Results: 
 
-1) Realisation area = 440.08 um^2.
+1) Layout realisation area = 440.08 um^2.
 2) Critical path delay for 1.2V = 4.545 ns.
 3) Critical path delay for 0.7V = 22.34 ns.
 4) Setup time for 1.2V = 0.1214 ns.
