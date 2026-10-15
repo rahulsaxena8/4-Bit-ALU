@@ -117,6 +117,8 @@ Complete floorplan:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_xor_Layout.png" width="400"/>
 </p>
 
+                              A 16 bit Kogge-Stone Adder
+
 Full Layout of the 4-Bit ALU:
 
  <p align="center">
