@@ -117,11 +117,18 @@ Complete floorplan:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_xor_Layout.png" width="400"/>
 </p>
 
-                                    A 16 bit Kogge-Stone Adder
+                                        A 16 bit Kogge-Stone Adder
 
  <p align="center">
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/16 bit Kogge-Stone.png" width="600"/>
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Prefix cells.png" width="400"/>
+</p>
+
+4-bit Kogge-Stone adder schematic and layout:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/.png" width="600"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/.png" width="400"/>
 </p>
 
 Full Layout of the 4-Bit ALU:
