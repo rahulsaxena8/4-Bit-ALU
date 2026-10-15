@@ -76,6 +76,12 @@ Inside the ALU block:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Logisim_alu-inside.png" width="800"/>
 </p>
 
+Complete floorplan:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/FloorPlan.png" width="800"/>
+</p>
+
 Full Layout of the 4-Bit ALU:
 
  <p align="center">
