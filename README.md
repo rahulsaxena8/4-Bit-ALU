@@ -82,6 +82,13 @@ Complete floorplan:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/FloorPlan.png" width="800"/>
 </p>
 
+4-bit register schematic and layout:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_xor.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_xor_Layout.png" width="400"/>
+</p>
+
 Full Layout of the 4-Bit ALU:
 
  <p align="center">
