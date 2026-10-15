@@ -85,8 +85,8 @@ Complete floorplan:
 4-bit register schematic and layout:
 
  <p align="center">
-  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_reg_schematic.png" width="600"/>
-  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_reg_Layout.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_reg_schematic.png" width="500"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_reg_Layout.png" width="500"/>
 </p>
 
 4-bit Mux schematic and layout:
