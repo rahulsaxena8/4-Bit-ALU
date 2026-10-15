@@ -89,6 +89,34 @@ Complete floorplan:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_reg_Layout.png" width="400"/>
 </p>
 
+4-bit Mux schematic and layout:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_MUX_Schematic.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_MUX_Layout.png" width="400"/>
+</p>
+
+2:4 Decoder schematic and layout:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/2_4_decoder_schematic.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/2_4_decoder_layout.png" width="400"/>
+</p>
+
+4-bit Barrel shifter schematic and layout:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Barrel_Shifter_Schematic.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Barrel_Shifter_Layout.png" width="400"/>
+</p>
+
+4-bit XOR schematic and layout:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_xor.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/4_bit_xor_Layout.png" width="400"/>
+</p>
+
 Full Layout of the 4-Bit ALU:
 
  <p align="center">
