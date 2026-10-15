@@ -46,9 +46,9 @@ Final Results:
 
 Files containing the project details are attached for perusal.
 
-Full Layout of the 4-Bit ALU: 
+Full Layout of the 4-Bit ALU:
 
-<p align="center">
-  <img src="Full_Layout.png" alt="Project Screenshot" width="800"/>
+ <p align="center">
+  <img src="Full_Layout.png" width="800"/>
 </p>
 
