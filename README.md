@@ -9,7 +9,7 @@ A) Operations capable of performing-
  3) XOR
  4) Barrel Shift right.
     
- Addition and subtraction are in 2's compliment. Kogge-Stone Adder used.
+ Addition and subtraction are in 2's compliment. Parallel Prefix adder used: Kogge-Stone adder.
 
 B) Successfully performed DRC, LVS and quantus QRC extraction.
 
@@ -22,9 +22,7 @@ E) Calculated Maximum frequency of operation for 700 mV and 1.2V.
 F) Steps taken to optimise :
 
  1) Area- Cells laid out in placement rows.
- 
  2) Power- Data gating employed.
- 
  3) Delay- Used buffers to bring down the fan-out from 8 to 4 and increase signal strength.
  
 G) 4 metal layers used.
