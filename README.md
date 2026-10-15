@@ -52,3 +52,7 @@ Full Layout of the 4-Bit ALU:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Full_Layout.png" width="800"/>
 </p>
 
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/ALU_BlockDiagram.png" width="800"/>
+</p>
+
