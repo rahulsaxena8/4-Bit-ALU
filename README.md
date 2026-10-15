@@ -49,6 +49,6 @@ Files containing the project details are attached for perusal.
 Full Layout of the 4-Bit ALU:
 
  <p align="center">
-  <img src="Full_Layout.png" width="800"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Full_Layout.png" width="800"/>
 </p>
 
