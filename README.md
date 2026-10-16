@@ -202,6 +202,20 @@ Above results are tabulated below:
 
 ### Calculating $t_{\text{cq}}$
 
+Clock to Q delays for different parameters:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/tcq_1.2.png" width="800"/>
+  <br>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/tcq_0.7.png" width="800"/>
+</p>
+
+Above results are tabulated below:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/tcq.png" width="800"/>
+</p>
+
 
 
 
