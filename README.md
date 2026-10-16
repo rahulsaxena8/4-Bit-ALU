@@ -166,7 +166,7 @@ Length of the layout = 31.615 um
 
 Width of the layout = 13.92 um
 
-Total area = 31.615 ${\times}$ 13.92 = 440.08 um
+Total area = 31.615 ${\times}$ 13.92 = 440.08 ${um^{2}}$
 
 # 2. Testing
 
