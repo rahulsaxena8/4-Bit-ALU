@@ -220,6 +220,14 @@ Above results are tabulated below:
 
 Estimating setup time using pass-fail tests:
 
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/setup_1.2.png" width="800"/>
+  <br>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/setup_0.7.png" width="800"/>
+</p>
+
+
+
 
 
 
