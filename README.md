@@ -194,6 +194,12 @@ Critical path delays for different parameters:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Tcrit_QRC_0.7.png" width="800"/>
 </p>
 
+Above results are tabulated below:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Tcrit.png" width="800"/>
+</p>
+
 
 
 
