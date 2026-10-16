@@ -147,5 +147,8 @@ Schematic and layout of the complete 4-Bit ALU:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Full_Layout.png" width="800"/>
 </p>
 
+# Testing
+
+
 
 
