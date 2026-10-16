@@ -39,7 +39,7 @@ Final Results:
 1) Layout realisation area = 440.08 um^2.
 2) Critical path delay for 1.2V = 4.545 ns.
 3) Critical path delay for 0.7V = 22.34 ns.
-4) Setup time for 1.2V = 0.1214 ns.
+4) Setup time for 1.2V = 0.1206 ns.
 5) Setup time for 0.7V = 0.2451 ns.
 6) Maximum Frequency for 1.2V = 114.5 MHz.
 7) Maximum Frequency for 0.7V = 24 MHz
