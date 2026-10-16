@@ -252,7 +252,7 @@ Maximum operating frequencies are:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/f_max.png" width="800"/>
 </p>
 
-<br>
+<br><br><br>
 
 **Top view circiut test with calculated maximum frequencies.**
 
