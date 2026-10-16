@@ -46,7 +46,7 @@ Final Results:
 
 Files containing the project details are attached for perusal.
 
-# Design
+# 1. Design
 
 Block diagram of the ALU:
 
@@ -162,7 +162,7 @@ Successful QRC extraction:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/QRC.png" width="400"/>
 </p>
 
-# Testing
+# 2. Testing
 
 Circuit testbench:
 
