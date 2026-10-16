@@ -254,7 +254,7 @@ Maximum operating frequencies are:
 
 <br><br>
 
-### **Top view circiut test with calculated maximum frequencies.**
+### **Top view circuit test with calculated maximum frequencies.**
 
  <p align="center">
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Operations.png" width="800"/>
