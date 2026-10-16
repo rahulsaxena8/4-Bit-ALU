@@ -176,7 +176,7 @@ The maximum operating frequency is given by:
 
 $f_{\text{max}} = \frac{1}{T_{\text{min}}}$
 
-### Calculating $t_{\text{logic}}
+### Calculating $t_{\text{logic}}$
 
 Critical path is given by:
 
