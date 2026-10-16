@@ -156,6 +156,15 @@ Successful DRC and LVS:
 
 # Testing
 
+Circuit testbench:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/overview_circ_Test Bench.png" width="800"/>
+</p>
+
+
+
+
 
 
 
