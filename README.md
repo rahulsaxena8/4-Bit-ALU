@@ -170,7 +170,13 @@ Circuit testbench:
 
 According to the setup time equation:
 
-$T_{\text{setup}}  \geq t_{cq} + t_{\text{logic}} + t_{\text{setup}}$
+$T_{\text{min}}  \geq t_{cq} + t_{\text{logic}} + t_{\text{setup}}$
+
+The maximum operating frequency is given by:
+
+$f_{\text{max}} = \frac{1}{T_{\text{min}}}$
+
+
 
 
 
