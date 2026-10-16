@@ -46,6 +46,8 @@ Final Results:
 
 Files containing the project details are attached for perusal.
 
+# Design
+
 Block diagram of the ALU:
 
  <p align="center">
