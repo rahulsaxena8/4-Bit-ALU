@@ -216,6 +216,10 @@ Above results are tabulated below:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/tcq.png" width="800"/>
 </p>
 
+### Calculating $t_{\text{setup}}$
+
+Estimating setup time using pass-fail tests:
+
 
 
 
