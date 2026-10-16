@@ -182,6 +182,22 @@ Based on the ALU design, the critical path should be:
 
 **clk input of reg B -> 4-bit AND -> 4-bit XOR -> Adder -> 4-bit OR -> input of output reg Y**
 
+Critical path delays for different parameters:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Tcrit_1.2.png" width="800"/>
+  <br>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Tcrit_QRC_1.2.png" width="800"/>
+  <br>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Tcrit_0.7.png" width="800"/>
+  <br>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Tcrit_QRC_0.7.png" width="800"/>
+</p>
+
+
+
+
+
 
 
 
