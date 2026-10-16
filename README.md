@@ -168,6 +168,12 @@ Circuit testbench:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/overview_circ_Test Bench.png" width="800"/>
 </p>
 
+According to the setup time equation:
+
+$T_{\text{setup}}  \geq t_{cq} + t_{\text{logic}} + t_{\text{setup}}$
+
+
+
 
 
 
