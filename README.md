@@ -226,6 +226,24 @@ Estimating setup time using pass-fail tests:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/setup_0.7.png" width="800"/>
 </p>
 
+Based on the above tests, setup times are as follows:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/setup.png" width="800"/>
+</p>
+
+Therefore, the minimum possible time periods for each case are:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/T_min.png" width="800"/>
+</p>
+
+Maximum operating frequencies are:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/f_max.png" width="800"/>
+</p>
+
 
 
 
