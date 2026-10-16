@@ -178,7 +178,7 @@ $f_{\text{max}} = \frac{1}{T_{\text{min}}}$
 
 ### Calculating $t_{\text{logic}}$
 
-Critical path is given by:
+Based on the ALU design, the critical path should be:
 
 **clk input of reg B -> 4-bit AND -> 4-bit XOR -> Adder -> 4-bit OR -> input of output reg Y**
 
