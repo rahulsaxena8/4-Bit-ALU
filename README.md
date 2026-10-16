@@ -154,6 +154,12 @@ Successful DRC and LVS:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/overview_circ_LVS.png" width="400"/>
 </p>
 
+Successful QRC extraction:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/QRC.png" width="400"/>
+</p>
+
 # Testing
 
 Circuit testbench:
