@@ -131,7 +131,7 @@ Complete floorplan:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Adder_Layout.png" width="400"/>
 </p>
 
-Schematic and layout of the ALU block (combinational):
+Schematic and layout of the ALU block (combinational circuit):
 
  <p align="center">
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/ALU_2.png" width="800"/>
@@ -145,6 +145,13 @@ Schematic and layout of the complete 4-Bit ALU:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/overview_circ_Schematic.png" width="800"/>
   <br>
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Full_Layout.png" width="800"/>
+</p>
+
+Successful DRC and LVS:
+
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/overview_circ_DRC.png" width="400"/>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/overview_circ_LVS.png" width="400"/>
 </p>
 
 # Testing
