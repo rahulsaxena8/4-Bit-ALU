@@ -200,7 +200,7 @@ Above results are tabulated below:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Tcrit.png" width="800"/>
 </p>
 
-
+### Calculating $t_{\text{cq}}$
 
 
 
