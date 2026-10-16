@@ -244,19 +244,17 @@ Maximum operating frequencies are:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/f_max.png" width="800"/>
 </p>
 
+**Top view circiut test with calculated maximum frequencies.**
 
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/Operations.png" width="800"/>
+</p>
 
+Timing Diagrams:
 
-
-
-
-
-
-
-
-
-
-
-
-
+ <p align="center">
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/TimingDiagram_1.2.png" width="800"/>
+  <br>
+  <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/TimingDiagram_0.7.png" width="800"/>
+</p>
 
