@@ -268,3 +268,6 @@ Timing Diagrams:
   <img src="https://github.com/rahulsaxena8/4-Bit-ALU/blob/Images/TimingDiagram_0.7.png" width="800"/>
 </p>
 
+The circuit works as intended.
+
+
